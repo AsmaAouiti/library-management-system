@@ -1,5 +1,5 @@
 # Library Management System
-Library Management System allows users and librarians to manage books, track issued books, and handle basic library operations.
+Library Management System is a web application built with React that allows both users (students, teachers, library members) and librarians/admins to interact with a library’s database of books. The system enables easy management of books, user authentication, and tracking of issued books all in a single page application (SPA) format.
 
 
 
@@ -11,7 +11,7 @@ Eya Riahi:
 
 
 
-### Functionalities
+## Functionalities
 User Features:
 - Signup and Login
 - Search books by title, author, or ID
@@ -26,7 +26,7 @@ Librarian/Admin Features:
 
 
 
-#### Tools Used
+## Tools Used
 Frontend
 - **React.js**
 - **React Router** (for navigation between pages)
